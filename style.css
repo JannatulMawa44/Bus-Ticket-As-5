@@ -1,0 +1,25 @@
+.container{
+   max-width: 81.52%;
+   margin: 0 auto;
+}
+.dotline-1{
+   border: 1px dashed rgb(0, 255, 21);
+   height: 300px;
+}
+
+
+
+table, td, th, tr{
+   padding-inline: 30px;
+   padding-block: 10px;
+   text-align: left;
+}
+
+.ticket{
+   padding-left: 300px;
+}
+
+hr{
+   border: 1px dashed rgba(189, 189, 189, 0.966);
+}
+
